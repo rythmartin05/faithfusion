@@ -1,4 +1,4 @@
-Lilian Shops E-commerce platform AI Chatbot and Visual Searcher Demo
+shopShoppingsmartinfo E-commerce platform AI Chatbot and Visual Searcher Demo
 ==============================================================================
 
 ai_ecommerce/
@@ -15,7 +15,8 @@ ai_ecommerce/
 
 
 
-This demonstrates an AI-powered chatbot for LilianShops.com e-commerce platform using NVIDIA Riva for Natural Language Understanding (NLU) and Text-to-Speech (TTS) capabilities.
+This demonstrates an AI-powered chatbot for shoppingsmartinfo.com
+e-commerce platform using NVIDIA Riva for Natural Language Understanding (NLU) and Text-to-Speech (TTS) capabilities.
 
 Prerequisites
 -------------

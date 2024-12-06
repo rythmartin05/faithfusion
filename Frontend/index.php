@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lilian AI</title>
+    <title>BuyRight AI</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -15,20 +15,20 @@
         </div>
     
         <div class="info-container">
-            <h3><b>Try Our <span style="background-color:#15F5BA ; color:white;">ShopBot </span> Assistance for Free</b></h3>
-            <p>Engage in a conversation with ShopSaz powered by NVIDIA Riva, and explore its capabilities firsthand. Experience personalized shopping assistance and see how ShopBot, can enhance your shopping experience and support your needs.</p>
+            <h3><b>Try Our <span style="background-color:#15F5BA ; color:white;">Shoppingsmart bot </span> Assistance for Free</b></h3>
+            <p>Engage in a conversation with ShopSaz powered by NVIDIA Riva, and explore its capabilities firsthand. Experience personalized shopping assistance and see how Buyright AI, can enhance your shopping experience and support your needs.</p>
             <div class="ctbtn">
-            <a href="https://lilianshops.com/contact" class="btn11">Get Full Access</a>
+            <a href="https://www.shoppingsmartinfo.com/contact/" class="btn11">Get Full Access</a>
           </div>
         </div>
     </div>
     <div id="chatai" class="contact-section">
        
         <div id="visual" class="info-container">
-            <h3><b>Feed an image to our <span style="background-color: #15F5BA; color:white;"> ShopBot </span> </b></h3>
-            <p>Engage in a Visual Search of a product with ShopBot AI powered by NVIDIA Deepstream, and explore its capabilities firsthand. Experience personalized shopping assistance and see how ShopBot, can enhance your shopping experience and support your needs.</p>
+            <h3><b>Feed an image to<span style="background-color: #15F5BA; color:white;"> BuyRight AI </span> </b></h3>
+            <p>Engage in a Visual Search of a product with BuyRight AI powered by NVIDIA Deepstream, and explore its capabilities firsthand. Experience personalized shopping assistance and see how BuyRight AI, can enhance your shopping experience and support your needs.</p>
             <div class="ctbtn">
-            <a href="https://lilianshops.com/contact" class="btn11">Get Full Access</a>
+            <a href="https://www.shoppingsmartinfo.com/contact/" class="btn11">Get Full Access</a>
        </div>
         </div>
         <div class="chat-container">
